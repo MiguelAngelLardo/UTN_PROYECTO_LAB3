@@ -114,7 +114,7 @@ Acceso a base de datos, consultas, entidades, procedimientos almacenados.
 ---
 
 ## 🛠️ Tecnologías Utilizadas
-- C# / .NET  
+- C# / .NET  (.NET Framework 4.8)
 - SQL Server  
 - WebForms / MVC 
 - Arquitectura en 3 Capas  
